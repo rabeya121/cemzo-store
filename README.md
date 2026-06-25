@@ -2,7 +2,7 @@
 
 A responsive React product listing app built with Vite + React.
 
-**Live Demo:** [your-vercel-url-here]
+**Live Demo:** (https://cemzo-store.vercel.app/)
 
 ## Features
 - Product listing from Fake Store API
